@@ -2,7 +2,7 @@
   
     
 
-  create  table "dbt_test"."public"."my_first_dbt_model__dbt_tmp"
+  create  table "raw"."public"."my_first_dbt_model__dbt_tmp"
   
   
     as
